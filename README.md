@@ -4,4 +4,4 @@
 
 :triangular_flag_on_post: Czeck Republic
 
-:mailbox_closed: zeky@gamenation.eu
+Discord: @Zeky#4994
