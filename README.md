@@ -8,5 +8,7 @@ Discord: @Zeky#4994
 
 ![Telegram](https://t.me/Zekyy)
 
+![Website](https://zeky.eu/)
+
 # <b>Visit Counter</b>
 <img align="left" src=https://profile-counter.glitch.me/ZekyWolf/count.svg />
